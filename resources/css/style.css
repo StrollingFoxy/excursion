@@ -1,4 +1,28 @@
 
+body {
+	background-color: black;
+	font-family: Verdana, sans-serif;
+	font-weight: normal;
+	text-align: center;
+	}
+
+h1 {
+	font-size: 50px;
+	color: white;
+
+	}
+
+.download {
+	font-size: px16;
+	color: aquamarine;
+
+}
+
+p {
+	color: gray;
+	font-size: 21px;
+}
+
 
 
 .footer {
